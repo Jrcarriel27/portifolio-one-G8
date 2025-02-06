@@ -1,6 +1,6 @@
 # Bem vindo ao meu prímeiro projeto de portfólio. Da ONE G8.
 
-Meu prímeiro portifolio desenvolvido com os cursos de HTML e CSS da Alura
+Meu prímeiro portifólio desenvolvido com os cursos de HTML e CSS da Alura
 
 ## ✔️ Técnicas e tecnologias utilizadas
 
